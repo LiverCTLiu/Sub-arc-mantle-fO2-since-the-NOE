@@ -16,7 +16,8 @@ Table-S6_Petrological modeling for arc mantle melts: We applied the partial melt
 
 Table-S7_Calculated mean V-Sc and PT of primitive arc basalts: The estimated mean V/Sc ratios and melting pressure and temperature conditions of primtive arc basalts since ~0.8 Ga.
 
-Reference key for application dataset: References information for application dataset.
+Reference key from EarthChem dataset: References information for EarthChem dataset.
+Reference key from KS2012 dataset: References information for KS2012 dataset (Keller and Schoene, 2012).
 
 2.Code
 Please put the Excel file and the python code in the same path. All the python codes were implemented on the Jupyter Notebook platform.
