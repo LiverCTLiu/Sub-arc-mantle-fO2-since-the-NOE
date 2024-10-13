@@ -22,4 +22,4 @@ Reference key from KS2012 dataset: References information for KS2012 dataset (Ke
 2.Code
 Please put the Excel file and the python code in the same path. All the python codes were implemented on the Jupyter Notebook platform.
 
-If you want to run the "Python_arc_classification ML model_ctliu20243", you can use the Excel Table-S2 and Table-S4. See details in the python file.
+If you want to run the "Python_arc_classification ML model_ctliu2024", you can use the Excel Table-S2 and Table-S4. See details in the python file.
